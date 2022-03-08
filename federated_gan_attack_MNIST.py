@@ -27,7 +27,7 @@ for dev in physical_devices:
 np.random.seed(0)
 
 # Constants
-Round = 120
+Round = 200
 clients_per_round = 10
 Batch_size = 2048
 Gan_epoch = 1
